@@ -1,0 +1,4 @@
+[flake8]
+# For error codes, see this https://flake8.pycqa.org/en/latest/user/error-codes.html
+max-line-length = 110
+ignore = E261
